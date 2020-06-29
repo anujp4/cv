@@ -16,3 +16,8 @@ h1{
 h2{
   color: #66BFBF;
 }
+img{
+border-radius: 50%;
+width: 25%;
+height: 25%;
+}
